@@ -49,4 +49,4 @@ Phyro Hack+ is a powerful CLI tool for network scanning, IP and firewall managem
 Run the script using Python and navigate through the menu to select the desired category and action. Here is an example of how to use the tool:
 
 ```bash
-python phyro_hack.py
+Run phyro_hack+1.0.0.py
